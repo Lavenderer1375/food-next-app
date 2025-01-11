@@ -26,7 +26,7 @@ export async function getStaticPaths() {
 }
 export async function getStaticProps({ params: { id } }) {
   // const {params: {id}} = context;
-  const res = await fetch(`${process.env.BASE_URL}/data/${id}`);
+  const res = await fetch(`${process.env.BASE_URL}/data/menu/${id}`);
   const data = await res.json();
 
   if (!data.id) {
