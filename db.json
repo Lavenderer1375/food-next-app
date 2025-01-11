@@ -37,7 +37,7 @@
       "name": "Peking duck",
       "price": 8,
       "discount": 0,
-      "introduction": "A dish cooked and eaten in Beijing since the Imperial era, today Peking duck is a Chinese restaurant favourite across the world. There are countless methods of preparing and cooking the duck, but originally it was roasted in a closed oven until the kitchens of the Qing Dynasty developed the open-oven style to cook several ducks at the same time. The duck is then served with steamed Chinese pancakes, cucumber, spring onion and sweet bean sauce.",
+      "introduction": "A dish cooked and eaten in Beijing since the Imperial era, today Peking duck is a Chinese restaurant favorite across the world. There are countless methods of preparing and cooking the duck, but originally it was roasted in a closed oven until the kitchens of the Qing Dynasty developed the open-oven style to cook several ducks at the same time. The duck is then served with steamed Chinese pancakes, cucumber, spring onion and sweet bean sauce.",
       "details": [
         { "Cuisine": "Chinese" },
         { "Recipe Type": "Duck" },
@@ -142,7 +142,7 @@
       "name": "Clam chowder",
       "price": 10,
       "discount": 0,
-      "introduction": "Creamy clam chowder is Massachusetts' finest dish that's prevalent throughout New England. Made with potatoes, crushed oyster crackers and chunks of local clam, it’s a flavourful and hearty dish to have all year long. The most famous place to eat it, Legal Sea Foods in Boston, began life as a market frequented by Julia Child and has been cooking up perfect chowder for decades. ",
+      "introduction": "Creamy clam chowder is Massachusetts' finest dish that's prevalent throughout New England. Made with potatoes, crushed oyster crackers and chunks of local clam, it’s a flavorful and hearty dish to have all year long. The most famous place to eat it, Legal Sea Foods in Boston, began life as a market frequented by Julia Child and has been cooking up perfect chowder for decades. ",
       "details": [
         { "Cuisine": "American" },
         { "Recipe Type": "Soup" },
@@ -152,7 +152,7 @@
         { "Serves": "4" }
       ],
       "ingredients": [
-        "4 slices thick-cut bacon, cut into lardons",
+        "4 slices thick-cut bacon, cut into lardon",
         "1 large onion, diced",
         "2 tbsp plain flour",
         "4 medium waxy potatoes, diced",
@@ -257,7 +257,7 @@
         "100 ml Sunflower oil",
         "2 tbsp Plain flour",
         "600 ml Veal stock or chicken stock",
-        "2 Carrots, peeled, halved lengthways and cut into chunks",
+        "2 Carrots, peeled, halved lengthwise and cut into chunks",
         "12 Silverskin onions",
         "100 g Small button mushrooms",
         "100 g Pancetta, diced",
@@ -271,7 +271,7 @@
         "Drain the meat into a bowl, using a colander, and reserve the marinade.",
         "Heat 4 tablespoons of the oil in a large saucepan or cast iron pot over a medium hear. Add the meat and cook for 20 minutes until brown, season with salt and pepper, then sprinkle with the flour and cook, stirring, for a further 2-3 minutes.",
         "Add the stock and reserved marinade and bring to the boil. Skim the foam off the surface and add the bouquet garni, then reduce the heat to low and simmer, partially covered, for 1 hour 45 minutes, stirring occasionally, until the meat is tender. By that time you should have a rich, silky sauce.",
-        "About 50 minutes before the end of the cooking time, heat another medium saucepan with 1 tablespoon of the oil over a medium-low heat. Add the carrots and onions and cook for 10 minutes or until soft and pale gold in colour, then add to the meat saucepan.",
+        "About 50 minutes before the end of the cooking time, heat another medium saucepan with 1 tablespoon of the oil over a medium-low heat. Add the carrots and onions and cook for 10 minutes or until soft and pale gold in color, then add to the meat saucepan.",
         "When the beef is almost ready, heat the remaining oil in a frying pan over a medium heat. Add the mushrooms and pancetta and fry 8-10 minutes, stirring occasionally, until golden brown, then add them to the beef. Check the seasoning adjusting the salt and pepper, if necessary, throw in the parsley and stir gently without breaking the delicate pieces of beef.",
         "Serve with hot creamed mash potatoes for a perfect winter warmer."
       ]
@@ -315,8 +315,8 @@
         "Heat a dry frying pan and toast the spices quickly till they become aromatic. Remove and keep on the side.",
         "Slice on onion in half and char it flat side down in a hot, dry pan until black. Remove, and add the ginger until coloured on both sides.",
         "Debone the short ribs, browning the bone in a dry pan on every side.",
-        "Add the bone to the crockpot with stock, water, onion, the garlic clove, spices, ginger, coriander stalks and shiitake mushrooms.",
-        "Slice the short rib lengthways in thin slices and add to the pot.",
+        "Add the bone to the crackpot with stock, water, onion, the garlic clove, spices, ginger, coriander stalks and shiitake mushrooms.",
+        "Slice the short rib lengthwise in thin slices and add to the pot.",
         "For best results, set your Crock-Pot or slow cooker to low (for 4–6 hours' cooking). You could also use high (for 2–3 hours' cooking).",
         "Cook until the beef gets soft to the bite but doesn’t break up.",
         "Add fish sauce and salt to taste.",
@@ -329,7 +329,7 @@
       "name": "Southern fried chicken",
       "price": 19,
       "discount": 10,
-      "introduction": "You might think that there couldn't be anything easier than deep-frying a piece of chicken – but you'd be wrong to assume it's as simple as that. Making the perfect batter, adding just the right amount of seasoning and choosing the best way to fry takes practise. A dish deeply rooted in the American South, a perfect basket of fried chicken is one for the bucket list.",
+      "introduction": "You might think that there couldn't be anything easier than deep-frying a piece of chicken – but you'd be wrong to assume it's as simple as that. Making the perfect batter, adding just the right amount of seasoning and choosing the best way to fry takes practice. A dish deeply rooted in the American South, a perfect basket of fried chicken is one for the bucket list.",
       "details": [
         { "Cuisine": "Italian" },
         { "Recipe Type": "Pasta" },
@@ -359,7 +359,7 @@
       "name": "Poutine",
       "price": 9,
       "discount": 0,
-      "introduction": "It might not be a looker, but this Québec dish is certainly delicious, and is now not only popular across Canada and the northeast of the US but further afield too. Comprising fluffy-on-the-inside, crunchy-on-the-outside French fries, and thick, rich and meaty gravy, poutine is elevated to a culinary event by the addition of cheese curds. These small, solidified white cheese bites retain some of their shape under the heat of the gravy.",
+      "introduction": "It might not be a looker, but this Quebec dish is certainly delicious, and is now not only popular across Canada and the northeast of the US but further afield too. Comprising fluffy-on-the-inside, crunchy-on-the-outside French fries, and thick, rich and meaty gravy, poutine is elevated to a culinary event by the addition of cheese curds. These small, solidified white cheese bites retain some of their shape under the heat of the gravy.",
       "details": [
         { "Cuisine": "Canadian" },
         { "Recipe Type": "Potato" },
@@ -376,7 +376,7 @@
       ],
       "recipe": [
         "Bring a large pot of salted water to the boil and pre-heat the oven to 220°C/430°F/gas mark 7.",
-        "Keeping the skin on, slice the potatoes lengthways into 1cm (0.5in) slices then cut into sticks (chips).",
+        "Keeping the skin on, slice the potatoes lengthwise into 1cm (0.5in) slices then cut into sticks (chips).",
         "Cook the chips in the boiling water for 5 minutes then drain. ",
         "Line a large baking tray with parchment paper and spray with a little light oil spray.",
         "Place the chips onto the baking tray in a single layer, season and spray all over with the light oil. Cook in the pre-heated oven for 25 minutes giving them a shake halfway through or until golden and crispy. ",
@@ -424,7 +424,7 @@
         "Soak the rice in a large bowl of warm water for 15 minutes, then drain and rinse under cold running water until the water runs clear. Put the kettle on to boil.",
         "Meanwhile, heat the butter and oil in a deep frying pan (skillet) or a flameproof casserole dish (Dutch oven) set over a medium heat. Fry the onion, chilli, cardamom pods and cinnamon stick for 5 minutes, stirring frequently.",
         "Meanwhile, in a large bowl, mix the grated ginger and garlic with the dried spices, ½ teaspoon salt and a generous grinding of black pepper. Add the chicken and massage the spice mix into the meat.",
-        "Add the chicken to the pan and fry for 5 minutes until the chicken has changed colour and the spices are fragrant.",
+        "Add the chicken to the pan and fry for 5 minutes until the chicken has changed color and the spices are fragrant.",
         "Stir in half of the crispy fried onions and season really well.",
         "Scatter the rice over the chicken in an even layer, then pour over the boiling water and add ½ teaspoon salt. The rice should be just submerged under the water. Agitate the rice with a spoon but don’t stir.",
         "Bring to the boil and cook for 6 minutes. Cover with foil and a tight-fitting lid to seal in the steam, then turn off the heat and leave to stand, undisturbed, for 10 minutes.",
@@ -487,7 +487,7 @@
         "3 good-sized carrots, trimmed",
         "1 large or 2 smaller mangoes (opt for firmer ones, so not too ripe)",
         "1 garlic clove, chopped",
-        "1 red chilli, deseeded and sliced lengthways",
+        "1 red chilli, deseeded and sliced lengthwise",
         "0.5 tsp sea salt juice",
         "2 limes, zested",
         "1 tsp sugar or 2 teaspoons honey",
@@ -533,7 +533,7 @@
         "1 onion, roughly chopped"
       ],
       "recipe": [
-        "Blitz the onion and garlic in a food-processer until fine. Add the herbs and continue to blend until they are completely whizzed up. Add the chickpeas, gram flour, cumin, coriander, Aleppo pepper flakes, baking powder and bicarbonate of soda.",
+        "Blitz the onion and garlic in a food-processor until fine. Add the herbs and continue to blend until they are completely whizzed up. Add the chickpeas, gram flour, cumin, coriander, Aleppo pepper flakes, baking powder and bicarbonate of soda.",
         "Season with a really good pinch of salt and blitz again for a few minutes to combine.",
         "Scrape the sides down with a spatula and blend until the mixture combines into a paste. Roll into 30–32 small falafel the size of walnuts.",
         "Heat the vegetable oil in a deep saucepan over a medium–high heat. You will need about 7–10cm (3 inches) oil, enough to completely cover your falafel.",
